@@ -1,4 +1,4 @@
-package protorec
+package refprotorec
 
 import (
 	"io"
